@@ -125,4 +125,7 @@ footer {
   .content {
     margin-top: 35%;
   }
+  .nav-heading {
+    font-size: 0.77em;
+  }
 }
